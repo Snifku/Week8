@@ -9,6 +9,7 @@ namespace IDCodeReader
             Console.WriteLine("Enter your personal code:");
             string idCode = Console.ReadLine();
             int idcodelenght = idCode.Length;
+            
 
             if (Validate(idCode))
             {
@@ -51,6 +52,21 @@ namespace IDCodeReader
                 Console.WriteLine("Hello, Madam!!");
             }
 
+        }
+        public static void GetYear(string idCode)
+        {
+            string yearFromCode = idCode.Substring(1, 2);
+            string year;
+
+            if(int.Parse(idCode[0].ToString()) > 4)
+            {
+                year = "20" + yearFromCode;
+            }
+            else
+            {
+                year = "19" + yearFromCode;
+            }
+            Console.WriteLine($"you were born in {year}");
         }
         
     }

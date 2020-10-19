@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\bin\Debug\netcoreapp2.1\AgeValidate.deps.json
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\bin\Debug\netcoreapp2.1\AgeValidate.runtimeconfig.json
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\bin\Debug\netcoreapp2.1\AgeValidate.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\bin\Debug\netcoreapp2.1\AgeValidate.dll
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\bin\Debug\netcoreapp2.1\AgeValidate.pdb
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.dll
+C:\Users\opilane\source\repos\IDCodeReader\AgeValidate\obj\Debug\netcoreapp2.1\AgeValidate.pdb
